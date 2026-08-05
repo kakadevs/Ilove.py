@@ -1,4 +1,4 @@
-# tbm me amas? 💌 — edição especial
+# Também me amas? 💌 — Edição Especial
 
 Versão totalmente redesenhada e interativa do clássico "app da declaração"
 em Python + Tkinter. O objetivo continua o mesmo (fazer a pessoa clicar em
